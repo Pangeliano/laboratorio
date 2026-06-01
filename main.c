@@ -32,7 +32,7 @@ int main(void){
 
 	turtleLeft(t, 180.0f);
 	turtlePenDown(t);
-	fractalTree(t, 200.0f, 7);
+	fractalTree(t, 200.0f, 9);
 
   	turtleAppRun(app);
   	turtleAppDestroy(app);
